@@ -28,9 +28,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 python docker_tui.py
 ```
-
-## Star History
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=905timur/docker-tui&type=date&legend=top-left)](https://www.star-history.com/#905timur/docker-tui&type=date&legend=top-left)
