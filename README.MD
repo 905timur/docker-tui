@@ -21,7 +21,7 @@ docker-tui is a terminal user interface (TUI) for interacting with Docker contai
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/docker-tui.git
+git clone https://github.com/905timur/docker-tui.git
 cd docker-tui
 python3 -m venv venv
 source venv/bin/activate
