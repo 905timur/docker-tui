@@ -1,4 +1,4 @@
-# docker-tui
+![Docker TUI Header](https://github.com/905timur/docker-tui/blob/main/repo-header.svg)
 
 A terminal user interface (TUI) for interacting with Docker containers, built with Textual and the Docker SDK for Python.
 
