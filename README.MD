@@ -27,6 +27,7 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python docker_tui.py
+```
 
 ## Star History
 
